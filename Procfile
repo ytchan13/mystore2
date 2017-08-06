@@ -1,0 +1,1 @@
+web: gunicorn mystore2.wsgi
