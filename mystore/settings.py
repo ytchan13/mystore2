@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ['localhost', 'mmystore2.herokuapp.com']
 INSTALLED_APPS = [
     'estore',
     'bootstrap3',
-    'django.contrib.admin',
+    #'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
